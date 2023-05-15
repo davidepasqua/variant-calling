@@ -13,3 +13,5 @@ SAMtools
 bcftools 
 QualiMap 
 SnpEff 
+
+Input data at https://drive.google.com/drive/folders/1epORxoLXENVm9O2luHHGdFcMnpscCEuH?usp=sharing
